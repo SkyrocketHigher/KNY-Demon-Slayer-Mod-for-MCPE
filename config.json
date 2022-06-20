@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": true,
+      "addon": false,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,29 +35,13 @@
   ],
   "Addon": [
     {
-    "name": "Random Stuffs lol",
-    "role": "So you want more things in your world, but not quite sure what. With the help of a friend I have made an addon with everything you didn't know you wanted. And let me assure you, you WANT this addon. It has everything from new foods to funky blocks so why not download it",
-    "image": "https://kossandroid.com/Data Android/Minecraft/demon slayer/2/3.jpeg",
-    "file_url": "https://kossandroid.com/Data Android/Minecraft/demon slayer/2/Random_Stuffs_lol_1624040784237.mcaddon",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/demon slayer/2/2.jpeg",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/demon slayer/2/1.jpeg"
-  },
-  {
-    "name": "鬼滅の刃アドオン Demon Slayer Addon",
-    "role": "Are you tired of ordinary swords? Do you want to use Nichirin Blades? Try this add-on! Nitirin Blade Press and hold to use various breaths! Let's face the monsters with this! Your Minecraft life should be better ...! Created by: tunekeshi 2304 (programmer) 織浜-おりはま- (3D model and texture) This add-on is an add-on that adds a Nichirin Blade And its survival friendly.",
-    "image": "https://kossandroid.com/Data Android/Minecraft/demon slayer/6/3.png",
-    "file_url": "https://kossandroid.com/Data Android/Minecraft/demon slayer/6/鬼滅の刃アドオン ver1.0.2 修正版.mcaddon",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/demon slayer/6/2.png",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/demon slayer/6/1.png"
-  },
-  {
-    "name": "Legendary Weapons",
-    "role": "Hello Brave Warrior! Today we have brought you an Add-on which adds many weapons from Videogames, Movies, Anime and many more, so stay and see this incredible complement with us Addon created by Arcanus and Anthony",
-    "image": "https://kossandroid.com/Data Android/Minecraft/demon slayer/9/3.png",
-    "file_url": "https://kossandroid.com/Data Android/Minecraft/demon slayer/9/Weapons_Legendary.mcaddon",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/demon slayer/9/2.png",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/demon slayer/9/1.png"
-  }
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
   ],
   "Map": [
     {
